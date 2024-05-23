@@ -1,2 +1,3 @@
-# docs-driverworks-proxyprotocol-xm
- XM Tuner Proxy SDK documentation
+# Driverworks Proxy/Protocol Guide - xm
+
+XM Tuner Proxy SDK documentation
